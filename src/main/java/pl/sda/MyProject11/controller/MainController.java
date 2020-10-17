@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 @Controller
 public class MainController {
 
- //   @RequestMapping("/index")
+  //  @RequestMapping("/index")
     public String index(Model model) {
 
 
